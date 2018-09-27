@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ParagonTest</string>
+    <string name="version">Version: %s</string>
+    <string name="name">Name: %s</string>
+    <string name="released">Released: %s</string>
+    <string name="api">API: %d</string>
+    <string name="distribution">Distribution: %.1f%%</string>
+    <string name="all">All</string>
+    <string name="favorites">Favorites</string>
+    <string name="persent_distribution">3% distribution</string>
+</resources>
